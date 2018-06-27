@@ -24,4 +24,9 @@ Versions from previous years can be found in tags.
 ---
 ## Notes
 - [x] Have fun!
+
+Tämä muutos on tehty Sisulla!
 OH I sure will! höröörhrörhörhörh
+^^Tämä taas paikallisesti, HULLUA!
+
+Molemmat versiot nyt commitettu ja pushattu
