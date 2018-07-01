@@ -1,6 +1,5 @@
 #include "functions.h"
 
-// Main program: initialise, compute Laplacian and print temperature field.
 int main(void)
 {
     field f;
